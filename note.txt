@@ -1,0 +1,61 @@
+nipro psd:
+html,css,boostrap,js
+
+font-family:----
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+fontawsam-
+
+color:-----
+black: #333333
+asah:  #8e8e8e
+white:  #ffffff
+
+
+padding:---------
+         xxl/xl/lg           md            sm/col
+header:
+top-b  20px                  20px           20px
+
+       
+                   
+slider:
+s_item 
+mt-200px                   110px               80px
+mb-200px                   110px                80px
+                       
+
+wellcome:
+mb-100px                  70px         70px/60px
+s_service-
+mt-100px                   85px        70px/50px
+ about:
+ mb-100px                  80px       70px/60px
+ recent:
+ mb-100px                  80px       70px/60px        
+ 
+
+
+
+font-size:-----
+       xxl/xl/lg           md            sm/col
+header:
+logo 30px                   25px            25px
+menu 16px                   16px            16px
+
+
+slider:
+s_h255px/50px           50px          40px/27px                
+s_p  18px/16px          16px            16px
+btn_common 16px         16px             15px 
+
+
+wellcome:
+c_title h1- 
+  30px                  26px               25px/22px
+s_s_h2-
+ 18px                  18px                18px       
+s_s_p-
+ 16px                  16px                 16px
+
